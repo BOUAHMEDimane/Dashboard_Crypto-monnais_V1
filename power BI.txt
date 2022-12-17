@@ -1,0 +1,1 @@
+https://query1.finance.yahoo.com/v7/finance/download/BTC-EUR?period1=1410912000&period2=1671235200&interval=1d&events=history&includeAdjustedClose=true
